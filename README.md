@@ -65,4 +65,4 @@ This project was undertaken as part of a research internship at IIIT Dharwad.
 
 ## Disclaimer
 
-This README describes the project's research objectives and workflow. Implementation details, datasets, trained models, and results should be added only when available and authorized for public release.
+This repository documents the project's objectives and research workflow. Source code, datasets, and results are included only where available and permitted for public sharing.
